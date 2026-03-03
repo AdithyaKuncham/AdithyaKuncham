@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **MERN Stack** and **DevOps** to build scalable cloud-native applications.  
 - 🚀 I’m working on an **AI-powered SaaS platform** that converts YouTube playlists into structured mastery paths with summaries, adaptive quizzes, and progress analytics.  
 - 🧠 I practice **Data Structures & Algorithms** consistently to strengthen problem-solving skills.  
-- 📄 <a href="https://drive.google.com/file/d/1xobcHIaw7dqoTzMrmi5ZAwUsJ46vjV6L/view?usp=drive_link" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> View My Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1bnQYI_tFM_7G-0645SlzmY9PG8bNLL9h/view?usp=drive_link" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> View My Resume</a>
 
 ---
 
